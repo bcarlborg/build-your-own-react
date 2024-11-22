@@ -72,11 +72,17 @@ const Didact = { createElement, render };
 /** @jsx Didact.createElement */
 const element = (
   <div id="foo">
+    <h1>Didact!</h1>
     <a href="https://example.com">example.com</a>
     <div>
       <ul>
         <li>item 1</li>
         <li>item 2</li>
+        <li>item 3</li>
+        <li>item 4</li>
+        <li>item 4</li>
+        <li>item 4</li>
+        <li>item 4</li>
       </ul>
     </div>
     <b />
